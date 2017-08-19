@@ -1,4 +1,4 @@
-# The 1st Chinese Machine Reading Comprehension (Datasets)
+# Datasets of CMRC 2017
 
 (Under construction...)
 
