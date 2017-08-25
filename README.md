@@ -14,7 +14,7 @@ If you wish to use this data in your research, please cite:
 
 ```
 @misc{cmrc2017-dataset,
-  author = {Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Wang, Shijin and Hu, Guoping},
+  author = {Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Liu, Ming and Wang, Shijin and Hu, Guoping},
   title = {A Dataset for the 1st Chinese Machine Reading Comprehension Evaluation},
   year = {2017},
   publisher = {GitHub},
