@@ -12,6 +12,14 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 | ***3*** | **TBD** | **TBD** | TBD | TBD |
 
 
+## Directory Guide
+- cloze (填空型)
+
+- user (用户提问型)
+
+- best_single (最佳单系统奖)
+
+
 If you have any questions, please contact evaluation committee.
 
 ----------------
