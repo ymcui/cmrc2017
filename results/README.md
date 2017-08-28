@@ -39,7 +39,7 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 ### 用户提问类问题（User-Query Question）
 
 | 最终排名 |  参赛单位 | 单/多系统 | 开发集准确率 | 测试集准确率↓ |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | ***1*** | **华东师范大学** <br/>East China Normal University (ECNU) | **多系统** | 90.45% | 69.53% |
 | | | 单系统 | 85.55% | 65.77% |
 | ***2*** | **山西大学三队** <br/> Shanxi University (SXU-3) | 单系统 | 47.80% | 49.07% | 
