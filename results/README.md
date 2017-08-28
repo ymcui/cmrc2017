@@ -9,7 +9,7 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 ### 填空类问题（Cloze-style Question）
 
 | 最终排名 | 参赛单位 | 单/多系统 | 开发集准确率 | 测试集准确率↓ |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | ***1*** | **6ESTATES PTE LTD** | **多系统** | 81.85% | 81.90% |
 | | | 单系统 | 75.85% | 74.73% |
 | ***2*** | **上海交通大学仿脑计算与机器智能研究中心自然语言组** <br/>Shanghai Jiao Tong University (SJTU BCMI-NLP) | **多系统** | 78.35% | 80.67% |
@@ -39,7 +39,7 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 ### 用户提问类问题（User-Query Question）
 
 | 最终排名 |  参赛单位 | 单/多系统 | 开发集准确率 | 测试集准确率↓ |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | ***1*** | **华东师范大学** <br/>East China Normal University (ECNU) | **多系统** | 90.45% | 69.53% |
 | | | 单系统 | 85.55% | 65.77% |
 | ***2*** | **山西大学三队** <br/> Shanxi University (SXU-3) | 单系统 | 47.80% | 49.07% | 
