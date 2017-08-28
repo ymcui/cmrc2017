@@ -8,7 +8,8 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 | 最终排名 | 参赛单位 | 单/多系统 | 开发集准确率 | 测试集准确率↓ |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | ***1*** | **TBD** | **TBD** | TBD | TBD |
-
+| ***2*** | **TBD** | **TBD** | TBD | TBD |
+| ***3*** | **TBD** | **TBD** | TBD | TBD |
 
 | - | PD-train | PD-valid | PD-test | CFT-auto | CFT-human |
 |--------|:-----:|:-----:|:-----:|:-----:|:-----:|
