@@ -55,9 +55,15 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 
 - user (用户提问型)
 
-- best_single (最佳单系统奖)
+- best_single (最佳单系统)
 
 Filename: [system_name].[single/ensemble].[dev/test].out
+
+## Evaluation
+```
+python evaluate.py [prediction-file] [reference-file]
+```
+
 
 
 ## Contact
