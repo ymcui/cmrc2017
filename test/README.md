@@ -1,3 +1,6 @@
 # CMRC 2017 Datasets
 
-We will release the TEST data in the near future, stay tuned!
+The hidden test set has been uploaded!
+
+----------------
+CMRC 2017 Evaluation Committee
