@@ -14,13 +14,11 @@ http://www.islrn.org/resources/resources_info/7839/
 If you wish to use this data in your research, please cite:
 
 ```
-@misc{cmrc2017-dataset,
-  author = {Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Wang, Shijin and Hu, Guoping},
-  title = {A Dataset for the 1st Chinese Machine Reading Comprehension Evaluation},
-  year = {2017},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ymcui/cmrc2017}}
+@article{cmrc2017-dataset,
+  title={Dataset for the First Evaluation on Chinese Machine Reading Comprehension},
+  author={Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Wang, Shijin and Hu, Guoping},
+  journal={arXiv preprint arXiv:1709.08299},
+  year={2017}
 }
 ```
 
