@@ -18,12 +18,15 @@ https://arxiv.org/abs/1709.08299
 If you wish to use this data in your research, please cite:
 
 ```
-@article{cmrc2017-dataset,
-  title={Dataset for the First Evaluation on Chinese Machine Reading Comprehension},
-  author={Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Wang, Shijin and Hu, Guoping},
-  journal={arXiv preprint arXiv:1709.08299},
-  year={2017}
+
+@InProceedings{cmrc2017-dataset,
+	title = {Dataset for the First Evaluation on Chinese Machine Reading Comprehension},
+	author = {Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Wang, Shijin and Hu, Guoping},
+	booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+	year = {2018},
+	publisher = {European Language Resources Association (ELRA)},
 }
+
 ```
 
 ----------------
