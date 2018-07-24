@@ -4,11 +4,11 @@ The final ranking of CMRC 2017 Evaluation is available.
 
 We will only upload the result files of Top-3 systems(both single/ensemble).
 
-## 最终系统排名
+## 最终系统排名 (Final System Ranking)
 
 ### 填空类问题（Cloze-style Question）
 
-| 最终排名 | 参赛单位 | 单/多系统 | 开发集准确率 | 测试集准确率↓ |
+| 最终排名<br/>Rank | 参赛单位<br/>Participant | 单/多系统<br/>single/ensemble | 开发集准确率<br/>Dev ACC | 测试集准确率↓<br/>Test ACC |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | ***1*** | **6ESTATES PTE LTD** | **多系统** | 81.85% | 81.90% |
 | | | 单系统 | 75.85% | 74.73% |
@@ -36,9 +36,11 @@ We will only upload the result files of Top-3 systems(both single/ensemble).
 
 *说明：开发集效果不计入排名参考，排名以测试集准确率降序排列*
 
+*Note: The result of development set is not counted as the final metric for ranking.*
+
 ### 用户提问类问题（User-Query Question）
 
-| 最终排名 |  参赛单位 | 单/多系统 | 开发集准确率 | 测试集准确率↓ |
+| 最终排名<br/>Rank | 参赛单位<br/>Participant | 单/多系统<br/>single/ensemble | 开发集准确率<br/>Dev ACC | 测试集准确率↓<br/>Test ACC |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | ***1*** | **华东师范大学** <br/>East China Normal University (ECNU) | **多系统** | 90.45% | 69.53% |
 | | | 单系统 | 85.55% | 65.77% |
