@@ -19,12 +19,13 @@ If you wish to use this data in your research, please cite:
 
 ```
 @InProceedings{cmrc2017-dataset,
-  author = {Yiming Cui ,Ting Liu ,Zhipeng Chen ,Wentao Ma ,Shijin Wang and Guoping Hu},
+  author = {Cui, Yiming and Liu, Ting and Chen, Zhipeng and Ma, Wentao and Wang, Shijin and Hu, Guoping},
   title = {Dataset for the First Evaluation on Chinese Machine Reading Comprehension},
   booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
   year = {2018},
   month = {may},
   date = {7-12},
+  pages = {2721--2725},
   location = {Miyazaki, Japan},
   editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
   publisher = {European Language Resources Association (ELRA)},
