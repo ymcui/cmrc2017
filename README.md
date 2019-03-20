@@ -1,6 +1,6 @@
 # CMRC 2017 Datasets
 
-For more information(in Chinese): http://www.hfl-tek.com/cmrc2017/index.html
+For more information(in Chinese): https://hfl-rc.github.io/cmrc2017/
 
 Thanks to all participants!
 
