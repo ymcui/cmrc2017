@@ -37,7 +37,7 @@ If you wish to use this data in your research, please cite:
 
 ## Official WeChat Account
 Please scan the following QR-code to follow us on WeChat.
-![qrcode.png](https://github.com/ymcui/cmrc2017/blob/master/qrcode.png)
+![qrcode.png](https://github.com/ymcui/cmrc2017/blob/master/qrcode.jpg)
 
 
 ----------------
